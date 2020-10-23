@@ -38,3 +38,4 @@ Project Setup Guide
     1. To Create the Tables required run `php artisan migrate`
     2. To Start the development server run `php artisan serve`
 7. Open your prefered browser and navigate to ***localhost:8000***
+8. Application should appear on the browser now
